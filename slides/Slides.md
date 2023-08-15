@@ -2,7 +2,7 @@
 marp: true
 theme: midnight
 transition: fade
-footer: 'https://example.com'
+
 style: |
   .columns {
     display: grid;
@@ -38,22 +38,20 @@ style: |
 
 ## Modeling Frameworks
 
-![Image](https://picsum.photos/800/600)
+- Several frameworks to choose from
+  - ArchiMate modeling language
+  - The Open Group Architectural Framework (TOGAF)
+  - Zachmann Framework
+- TOGAF was born in the 1990s as a derivative of the Department of Defense's Technical Architecture Framework for Information Management (TAFIM) as well as the Integrated Architecture Framework (IAF) from Capgemini  
+- ArchiMate is based on the IEEE 1471 standard for describing "software-intensive systems"
 
 ---
 
 ## Heavy or Light?
 
-> This is a quote.
+> Modeling frameworks can generally be viewed as heavy, since they are prescriptive in how terms are used, interactions are defined, and layers are composed.
 
----
-
-## Pros and Cons
-
-| Pros | Cons |
-| -------- | -------- |
-| Item 1   | Item 2   |
-| Item 3   | Item 4   |
+> Using the methodologies for classifying different segments of a solution or visualizing those segments will yield a more well-rounded solution, regardless of adherence to the meteamodel or strict interaction rules.
 
 ---
 
@@ -78,7 +76,8 @@ style: |
 - Lots of process
 - Lots of academic material
 - Structure can be rigid
-- Models require maintenance
+- Models require consistent maintenance
+- Abstract concepts may be difficult to capture
 
 </div>
 </div>
@@ -87,7 +86,6 @@ style: |
 
 ## Related Links
 
-<i class="fa-brands fa-twitter"></i> Twitter: https://twitter.com/jgarverick
-<i class="fa-brands fa-mastodon"></i> Mastodon: Coming soon
-<i class="fa-brands fa-linkedin"></i> LinkedIn: https://linkedin.com/in/josh-garverick
-<i class="fa-brands fa-github"></i> GitHub: https://github.com/jgarverick
+ArchiMate: https://www.opengroup.org/archimate-forum/archimate-overview 
+TOGAF: https://www.opengroup.org/togaf
+
