@@ -22,67 +22,72 @@ style: |
   @import 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css'
 ---
 <!-- _class: "title-slide" -->
-# My Presentation
-![bg right](https://picsum.photos/800/600)
+# Architecture Modeling Basics
+![bg right](https://upload.wikimedia.org/wikipedia/commons/a/a1/TOGAF_ADM.jpg)
 
 ---
 
-## Slide 1
+## Agenda
 
-- Item 1
-- Item 2
-- Item 3
+- Modeling frameworks
+- Heavy or light?
+- Pros and cons
+- Relevant links
 
 ---
 
-## Slide 2
+## Modeling Frameworks
 
 ![Image](https://picsum.photos/800/600)
 
 ---
 
-## Slide 3
+## Heavy or Light?
 
 > This is a quote.
 
 ---
 
-## Slide 4
+## Pros and Cons
 
-| Column 1 | Column 2 |
+| Pros | Cons |
 | -------- | -------- |
 | Item 1   | Item 2   |
 | Item 3   | Item 4   |
 
 ---
 
-## Slide 5
+## Is it worth the overhead?
 
 <div class="columns">
 <div>
 
-## Left
+### Pros
 
-- 1
-- 2
+- Structured categories for components
+- Ubiquitous taxonomy
+- Well-defined components and interactions
+- Views and viewpoints provide insight into potential changes
+- Dependency mapping at several levels
 
 </div>
 <div>
 
-## Right
+### Cons
 
-- 3
-- 4
+- Lots of process
+- Lots of academic material
+- Structure can be rigid
+- Models require maintenance
 
 </div>
 </div>
 
 ---
 
-## Slide 6
+## Related Links
 
-<i class="fa-brands fa-twitter"></i> Twitter: 
-<i class="fa-brands fa-mastodon"></i> Mastodon: 
-<i class="fa-brands fa-linkedin"></i> LinkedIn: 
-<i class="fa fa-window-maximize"></i> Blog: 
-<i class="fa-brands fa-github"></i> GitHub: 
+<i class="fa-brands fa-twitter"></i> Twitter: https://twitter.com/jgarverick
+<i class="fa-brands fa-mastodon"></i> Mastodon: Coming soon
+<i class="fa-brands fa-linkedin"></i> LinkedIn: https://linkedin.com/in/josh-garverick
+<i class="fa-brands fa-github"></i> GitHub: https://github.com/jgarverick
